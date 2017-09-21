@@ -1,7 +1,7 @@
 {
   "name": "demo-micro",
   "version": "1.0.0",
-  "description": "An example on how to deploy Micro Asynchronous HTTP microservices to WeDeploy",
+  "description": "A project that demonstrates Micro Asynchronous HTTP microservices using WeDeploy",
   "main": "index.js",
   "scripts": {
     "start": "micro -p 80"

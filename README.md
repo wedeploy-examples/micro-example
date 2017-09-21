@@ -2,4 +2,4 @@
 
 _**Micro** — Asynchronous HTTP microservices_
 
-An example on how to deploy [Micro](https://github.com/zeit/micro) Asynchronous HTTP microservices to WeDeploy.
+A project that demonstrates [Micro](https://github.com/zeit/micro) Asynchronous HTTP microservices using WeDeploy
