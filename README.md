@@ -1,5 +1,13 @@
-<img src="https://raw.githubusercontent.com/zeit/art/6451bc300e00312d970527274f316f9b2c07a27e/micro/logo.png" width="50"/>
+# Micro [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-_**Micro** — Asynchronous HTTP microservices_
+A demo of [Micro](https://github.com/zeit/micro) on [WeDeploy](https://wedeploy.com/).
 
-A project that demonstrates [Micro](https://github.com/zeit/micro) Asynchronous HTTP microservices using WeDeploy
+## Instructions
+
+1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
+2. Clone this repository.
+3. Open the project with your command line and run `we deploy -p yourproject`.
+
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
