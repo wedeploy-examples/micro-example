@@ -1,6 +1,6 @@
 # Micro [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Micro](https://github.com/zeit/micro) on [WeDeploy](https://wedeploy.com/).
+An example of [Micro](https://github.com/zeit/micro) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
