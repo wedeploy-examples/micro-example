@@ -1,3 +1,7 @@
 {
-  "id": "app"
+  "id": "app",
+  "healthCheck": {
+    "url": "localhost",
+    "startPeriod": 30
+  }
 }
